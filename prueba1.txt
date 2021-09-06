@@ -1,4 +1,8 @@
 algo por ahi
 otra cosa
 otra cosa (2)
+<<<<<<< Updated upstream
 cambio en la web
+=======
+vamos a la web
+>>>>>>> Stashed changes
